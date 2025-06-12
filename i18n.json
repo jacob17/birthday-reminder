@@ -1,0 +1,14 @@
+{
+  "en": {
+    "birthday_greeting": "Happy birthday!",
+    "belated_birthday_greeting": "Happy belated birthday!",
+    "message_body": "On behalf of the company, we’re giving you a 300 NTD birthday coupon. Enjoy {emoji}!",
+    "redeem_link": "Click <{link}|here> (code: {code}) to redeem your coupon."
+  },
+  "es": {
+    "birthday_greeting": "¡Feliz cumpleaños!",
+    "belated_birthday_greeting": "¡Feliz cumpleaños atrasado!",
+    "message_body": "En nombre de la empresa, te obsequiamos un cupón de cumpleaños de 300 NTD. ¡Disfrútalo {emoji}!",
+    "redeem_link": "Haz clic en <{link}|aquí> (código: {code}) para canjear tu cupón."
+  }
+}
